@@ -3,7 +3,12 @@
 
 # Default file assumes that the Unity Project is the 
 # root folder. In this case it is not.
-/UnityProject_Chess/Library/*
+/UnityProject_Chess/[Ll]ibrary/
+/UnityProject_Chess/[Tt]emp/
+/UnityProject_Chess/[Oo]bj/
+/UnityProject_Chess/[Bb]uild/
+/UnityProject_Chess/[Bb]uilds/
+/UnityProject_Chess/AssetStoreTools*
 
 /[Ll]ibrary/
 /[Tt]emp/
