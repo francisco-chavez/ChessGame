@@ -1,3 +1,6 @@
+# Temp Blender files
+*.blend[0-9]*
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
