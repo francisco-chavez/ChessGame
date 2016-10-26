@@ -1,6 +1,10 @@
 # Temp Blender files
 *.blend[0-9]*
 
+# Default file assumes that the Unity Project is the 
+# root folder. In this case it is not.
+/UnityProject_Chess/Library/*
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
